@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Hed 👋</h1>
+<h1 align="center">it's a boi hedscott</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Developer;React+%2B+TypeScript;Building+Cool+Stuff+%F0%9F%9A%80;Turning+Coffee+%E2%98%95+Into+Code+%F0%9F%92%BB&font=Fira%20Code&center=true&width=500&height=45&duration=2800&pause=1000&color=1B8A8A&vCenter=true&size=24" alt="Typing SVG" />
