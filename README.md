@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Hed 👋</h1>
-<h3 align="center">Frontend Developer @ BCE Co., Ltd | React + TypeScript | Building Inventory Systems</h3>
+<h3 align="center"> Developer @ BCE Co., Ltd | | Building Inventory Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Junior+Frontend+Developer+%F0%9F%92%BB;React+%2B+TypeScript+Enthusiast;Building+a+Raw+Materials+Inventory+System;Turning+Coffee+%E2%98%95+Into+Code+%F0%9F%92%BB;Year+4+CS%2FIT+Student+%F0%9F%8E%93&font=Fira%20Code&center=true&width=600&height=45&duration=3000&pause=1000&color=1B8A8A&vCenter=true&size=22" alt="Typing SVG" />
