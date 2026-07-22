@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nuon Thanith</h1>
+<h1 align="center">Hi 👋, I'm Hedbugg</h1>
 <h3 align="center">Frontend Developer | React + TypeScript | .NET API</h3>
 
 <p align="center">
