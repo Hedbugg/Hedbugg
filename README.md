@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/handshake.gif" width="380">
 </p>
 
-<h3 align="center">📊 Stats</h3>
+<!-- <h3 align="center">📊 Stats</h3> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hedbugg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
