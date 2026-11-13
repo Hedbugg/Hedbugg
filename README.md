@@ -1,54 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hed&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Dev%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20Phnom%20Penh&descSize=18&descAlignY=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=NANI%3F!&fontSize=80&fontColor=ffffff&animation=twinkling&desc=%E2%9C%A7%20Protagonist%20energy%20loading...%20%E2%9C%A7&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=500&lines=Hello%2C+world!+%E2%9C%A8;I+build+things+with+React+%2B+TypeScript;Currently+leveling+up+%E2%9A%94%EF%B8%8F" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=It's+not+a+bug%2C+it's+a+plot+twist+%F0%9F%90%9B;My+code+works+because+of+the+power+of+friendship+%F0%9F%92%AA;Training+arc+starts+tomorrow...+again+%F0%9F%98%B4;Omae+wa+mou+shindeiru...+to+git+push+--force+%F0%9F%92%80;Just+one+more+commit...+then+sleep+%F0%9F%8C%99" />
 
 </div>
 
 ---
 
-## ⛩️ About Me
+### 🍙 Daily Status
 
-```yaml
-name: Hed
-class: Frontend Developer
-level: Year 4 CS Student
-base: Phnom Penh, Cambodia 🇰🇭
-main_weapon: React + TypeScript
-languages: [Khmer, English]
-quest: Building cool stuff, one commit at a time
-```
+- 🍜 Powered by instant noodles and copium
+- 📺 Currently watching: 1 episode (it was 12)
+- 🐛 Bugs defeated: 3 | Bugs created: 4
+- 😤 Final boss: `undefined is not a function`
 
-## ⚔️ Skill Tree
+### 🎲 Random Joke Drop
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,git,github,figma&theme=dark" />
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
 
 </div>
 
-## 📊 Player Stats
+### 🌸 Anime Quote
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
-## 🌸 Vibes
+### 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff79c6&style=flat-square&label=VISITORS)
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" />
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff79c6&style=flat-square&label=SENPAI+NOTICED+ME)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
